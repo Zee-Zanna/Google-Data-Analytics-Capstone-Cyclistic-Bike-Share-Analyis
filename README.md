@@ -103,6 +103,8 @@ The data has been merged into a single file called all_trips
 
 # Data exploration
 
+![](first.png)
+
 ```{r}
 skim(all_trips)
 ```
